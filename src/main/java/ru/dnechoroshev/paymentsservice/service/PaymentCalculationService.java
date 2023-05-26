@@ -6,7 +6,6 @@ import ru.dnechoroshev.paymentsservice.domain.Transaction;
 import ru.dnechoroshev.paymentsservice.domain.UserPayment;
 import ru.dnechoroshev.paymentsservice.store.PaymentStore;
 
-import java.math.BigDecimal;
 import java.util.*;
 import java.util.stream.Collectors;
 
